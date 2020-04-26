@@ -2,6 +2,8 @@
 AIUB Django app
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Install
 
 Prerequisites:
