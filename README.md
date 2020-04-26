@@ -4,9 +4,9 @@ AIUB Django app
 
 ![Image of aiub homepage](https://github.com/Nasim-NIMU/aiub/blob/master/aiubhome.png)
 
-##Install
-####Prerequisites:
-######python==3.8.1
+## Install
+#### Prerequisites:
+###### python==3.8.1
 
 ```javascript
 c:/>git clone https://github.com/Nasim-NIMU/aiub.git
