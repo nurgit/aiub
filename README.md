@@ -2,7 +2,7 @@
 AIUB Django app
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of aiub homepage](https://github.com/Nasim-NIMU/aiub/blob/master/aiubhome.png)
 
 Install
 
