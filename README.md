@@ -9,7 +9,7 @@ AIUB Django app
 ###### python==3.8.1
 
 ```javascript
-c:/>git clone https://github.com/Nasim-NIMU/aiub.git
+c:/>git clone https://github.com/nasim-007/aiub.git
 c:/>cd aiub
 c:/aiub>cd aiubenv
 c:/aiub/aiubenv>scripts\activate.bat
