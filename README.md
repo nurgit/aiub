@@ -1,5 +1,5 @@
 # AIUB
-AIUB Django app
+### AIUB Website source code using Django framework
 
 
 ![Image of aiub homepage](https://github.com/Nasim-NIMU/aiub/blob/master/aiubhome.png)
